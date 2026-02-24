@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "aram",
+    "email": "narek@gmail.com",
+    "password": "$2b$10$UiQS/fTb82IlyPrM5itJUuLz6PHxrP96TzGevOLiLwPSQI.o79bKO",
+    "isAdmin": true
+  },
+  {
+    "id": 1770009896310,
+    "name": "aper",
+    "email": "aasf@gmail.com",
+    "password": "$2b$10$f7PWbiefcUofKqr3TDPnPu./1ngUvglyf9nMFqF9TQ3Er35dS7voC",
+    "isAdmin": false
+  },
+  {
+    "id": 1770010016798,
+    "name": "Narek",
+    "email": "narek.jan@mail.ru",
+    "password": "$2b$10$Hy0eYGqQ5sxav9mQlD795ekbdGY77RrKkQn83cCiYEKl7E73weCdq",
+    "isAdmin": false
+  },
+  {
+    "id": 1770010097519,
+    "name": "Narek",
+    "email": "narek.jan2@mail.ru",
+    "password": "$2b$10$527Qv91fDkPCvY/U6A4grek6Jq2p8KP4cZhrIU/MhK2sMvtMZuiXa",
+    "isAdmin": false
+  },
+  {
+    "id": 1770010223897,
+    "name": "Narek",
+    "email": "narek.jan3@mail.ru",
+    "password": "$2b$10$o/uyP02tTwfr2XCk8hON/u9o4cFdmMFuNTOwYMGIEble61AQmCA9u",
+    "isAdmin": true
+  },
+  {
+    "id": 1770059992677,
+    "name": "Vardan",
+    "email": "vardan@gmail.com",
+    "password": "$2b$10$TUHQMAJBn7sAuNDzTmLuPOOlwOCsoYb0Mfn5iZX6AePSKuZA7kwaq",
+    "isAdmin": true
+  },
+  {
+    "id": 1770095307161,
+    "name": "Narek",
+    "email": "n@gmail.com",
+    "password": "$2b$10$kj17BkqxYAMCTzhl3qtKdenvpyDDoPmhGUpIoow9QU.11TIkibHwu",
+    "isAdmin": false
+  },
+  {
+    "id": 1770095501001,
+    "name": "aper",
+    "email": "n2@gmail.com",
+    "password": "$2b$10$udn0uBSTpSy.oHhQ8.ocBu8yR/xp5hzXZkqjb1CedQxoiyZI0TUru",
+    "isAdmin": false
+  },
+  {
+    "id": 1770095543969,
+    "name": "aper",
+    "email": "n3@gmail.com",
+    "password": "$2b$10$QwwHM87RsshcY/d2TZjx7OdEjp7fJR7EeyLMQCCymq98ToKjkYA.y",
+    "isAdmin": true
+  }
+]
